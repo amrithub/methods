@@ -19,3 +19,4 @@ end
  goodbye
  p = add(3,4)
  puts p
+ prints "Amrit"
